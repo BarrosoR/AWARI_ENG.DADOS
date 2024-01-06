@@ -17,3 +17,19 @@ len(texto)
 texto= texto.replace ('NASA', 'nasa')
 
 print(texto)
+
+texto.count('NASA')
+
+texto.count('nasa')
+
+texto.index('ciência')
+
+palavra = 'Lua'
+
+palavra.upper()
+
+palavra.lower()
+
+palavra in texto
+
+texto.count(palavra)

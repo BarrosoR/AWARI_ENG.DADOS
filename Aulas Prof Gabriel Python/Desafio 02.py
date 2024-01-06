@@ -1,4 +1,5 @@
-#Crie um algoritmo que tenha como entrada o nome e o ano de nascimento de uma pessoas e retorne o texto abaixado fazendo o calculo de sua idade
+# Crie um algoritmo que tenha como entrada o nome e o ano de nascimento de uma pessoas e retorne o texto abaixado fazendo o calculo de sua idade
+# Olá Maria, você é de 1994 e sua idade é de 27 anos.
 from datetime import date
 
 nome = input('Digite seu nome:')
